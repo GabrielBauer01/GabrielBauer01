@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## Redes Sociais 📱
-- Instagram: [📸 @seu_usuario]([https://www.instagram.com/seu_usuario](https://www.instagram.com/_gabriel.bauer/))
-- LinkedIn: [💼 seu_usuario](www.linkedin.com/in/gabriel-bauer-guimarães-b487a12aa)
-- Gmail: [📧 seu_email@gmail.com](gabrielbs232@gmail.com)
-- Discord: [🎮 seu_id](https://discord.com/users/bauer5870)
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
