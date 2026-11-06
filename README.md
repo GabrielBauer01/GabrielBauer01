@@ -1,8 +1,8 @@
 # Olá, me chamo Gabriel Bauer 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielBauer01&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GabrielBauer01&show_icons=true&hide_title=true&hide=prs&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBauer01&langs_count=5&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielBauer01&langs_count=5&layout=compact&theme=radical)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
